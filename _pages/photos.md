@@ -4,6 +4,10 @@ permalink: /photos/
 author_profile: true
 ---
 
+### Slieve Binnian (Northern Ireland) 2019
+
+![Slieve Binnian](/images/photos/Slieve_Binnian_2019.jpg)
+
 ### Mind the Gap 2018
 
 Short presentation on introduction to telecommunications as part of the event "Mind the Gap", <http://www.bitgirls.dcc.ufmg.br/mtg2018.html>. <br>
