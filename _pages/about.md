@@ -13,4 +13,4 @@ Some of my most recently used technical skills are displayed below. The percenta
 
 ![Featured Skills](https://docs.google.com/spreadsheets/d/e/2PACX-1vRvFtaknHOANOBbFuGpuCmQu12Ha5HSeM0-W9TtdYiULkC4wu4WR4C8w56d4LrkIdzqU3G9xtCvNRLZ/pubchart?oid=293046441&format=image)
 
-[Curriculum Vitae](https://docs.google.com/document/d/e/2PACX-1vTnav56ELUlKbW9CobR51jrkkksd8AH9PRYeqRKdEe-0gLkO3ObDfOhokp3dDCQDsjoDgct7ebPNIaJ/pub "Curriculum Vitae")
+[Curriculum Vitae](./files/cv-complete.pdf "Curriculum Vitae")
