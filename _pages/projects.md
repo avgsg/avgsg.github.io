@@ -5,32 +5,33 @@ author_profile: true
 ---
 
 ### 1. SATORI
-I am a team member of the SATORI (SmArt neTwOrking in the eRa) project. For more details, visit: <http://satori-project.net/>.
+
+I am a team member of the SATORI (smart networking in the era of AI) project. For more details, click [here](http://satori-project.net/>).
 
 ### 2. SOMAC
 
 SOMAC (Self-Organizing MAC sub-layer) is an extension of FS-MAC+ and also the outcome of my Master's thesis. It copes with the non-stationary nature of wireless networks and does not rely on training sets beforehand (shortcomings of FS-MAC+), being able to learn how to switch the MAC protocol on the fly. SOMAC is also implemented using GNU-Radio and tested on a software-defined radio testbed.
 
 **Reference:** Gomes, A., Macedo, D. F. and Vieira, L. F. M. (2019). _Automatic MAC protocol selection in wireless networks based on reinforcement learning_. In ELSEVIER Journal of Computer Communications. <br>
-**Document:** <https://www.sciencedirect.com/science/article/pii/S0140366419311284> <br>
-**Source code:** <https://github.com/avgsg/gr-somac> <br>
+**Document** [available here](https://www.sciencedirect.com/science/article/pii/S0140366419311284). <br>
+**Source code** [available here](https://github.com/avgsg/gr-somac). <br>
 
 ### 3. FS-MAC+
 
 FS-MAC+ is a Machine Learning-based MAC sub-layer for wireless networks. It automatically selects and switches the MAC protocol in use, improving the network performance over time. FS-MAC+ is implemented using GNU-Radio and tested on a software-defined radio testbed of Ettus USRP B200 devices.
 
 **Reference:** Gonçalves, A. V. G. S., Macedo, D. F. and Vieira, L. F. M. (2018). _FS-MAC+: Troca flexível do protocolo de acesso ao meio em redes sem fio empregando aprendizado de máquina_. In XXXVI Brazilian Symposium on Computer Networks and Distributed Systems (SBRC). <br>
-**Document:** <http://ojs.sbc.org.br/index.php/sbrc/article/view/2413> <br>
-**Source code:** <https://github.com/avgsg/FS-MACplus.git> <br>
+**Document** [available here](http://ojs.sbc.org.br/index.php/sbrc/article/view/2413). <br>
+**Source code** [available here](https://github.com/avgsg/FS-MACplus.git). <br>
 
 ### 4. MAC protocols for SDR
 
 I had developed this project during the course "Intelligent Networks" at the Federal University of Minas Gerais in 2017.1, consisting of two MAC protocols (CSMA/CA and TDMA) for use in software-defined radio platforms. The PHY layer comes from the project [gr-ieee802-11](https://github.com/bastibl/gr-ieee802-11).
 
-**Source code:** <https://github.com/avgsg/gr-macprotocols.git> <br>
+**Source code** [available here](https://github.com/avgsg/gr-macprotocols.git). <br>
 
 ### 5. Alternative algorithm for ANR in LTE networks
 
 This project is the outcome of my Bachelor's degree thesis. It proposes an algorithm that efficiently and automatically fulfils ANR (Automatic Neighbour Relation) tables in LTE networks.
 
-**Document:** <https://goo.gl/f9trF8>
+**Document** [available here](https://goo.gl/f9trF8>).
