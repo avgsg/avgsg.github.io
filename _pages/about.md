@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-I'm a Telecommunications Engineer with professional experience in Technical Support Engineering and research experience in Wireless Networks. I hold an engineering bachelor's degree from the Federal University of São João del-Rei (Brazil), which was partly taken as a foreign student at the University of Adelaide (Australia), and a master's degree in Computer Science from the Federal University of Minas Gerais (Brazil). Currently, I'm a PhD student in Electronic and Electrical Engineering at the Trinity College Dublin (Ireland) under the supervision of Prof. Luiz Da Silva. My research interests are mostly related to Machine Learning applications, Cognitive and Self-Organizing Networks.
+Hello, there!
 
-[Curriculum Vitae](./files/cv-complete.pdf "Curriculum Vitae")
+I am a Telecommunications/Computer Engineer (BS/MS/PhD-in progress) with professional experience in Technical Support Engineering (tiers 1-3) and Computer Networks Management. Over the years, I have developed strong proficiency in Python, Linux (mostly Debian/Ubuntu), Bash Scripting, Computer/Wireless Networks, and lately endeavoured in Machine Learning and Data Science. Among some relevant soft-skills, I list fast learner, team worker, and a good communicator.
+
+My complete CV is available [CV](./files/cv-complete.pdf "here").
