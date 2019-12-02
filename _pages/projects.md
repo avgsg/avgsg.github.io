@@ -6,7 +6,7 @@ author_profile: true
 
 ### 1. SATORI
 
-I am a team member of the SATORI (smart networking in the era of AI) project. For more details, click [here](http://satori-project.net/>).
+I am a team member of the SATORI (smart networking in the era of AI) project, a joint research collaboration between Trinity College Dublin (Ireland) and Tsinghua University (China). For more details, visit [here](http://satori-project.net/>).
 
 ### 2. SOMAC
 
