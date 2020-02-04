@@ -6,6 +6,9 @@ author_profile: true
 ### Bray, Ireland 2020
 ![Bray, Ireland](/images/photos/bray-ireland.jpg)
 
+### Paraty, Brazil 2020
+![Paraty, Brazil](/images/photos/paraty.jpg)
+
 ### Iceland 2019
 
 ![Iceland 0](/images/photos/iceland.jpg) <br> <br>
