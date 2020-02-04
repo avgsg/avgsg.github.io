@@ -1,7 +1,7 @@
 ---
 title: "Wanderlust"
 permalink: /wanderlust/
-author_profile: false
+author_profile: true
 ---
 
-![World map](/images/photos/world_map.png)
+![World map](/images/world_map.png)
