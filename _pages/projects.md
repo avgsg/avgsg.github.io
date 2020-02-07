@@ -27,8 +27,8 @@ FS-MAC+ is a Machine Learning-based MAC sub-layer for wireless networks. It auto
 
 ## 4. MAC protocols for SDR (2017-2018)
 
-I had developed this project during the course "Intelligent Networks" at the Federal University of Minas Gerais in 2017.1, consisting of two MAC protocols (CSMA/CA and TDMA) for use in software-defined radio platforms. The PHY layer comes from the project [gr-ieee802-11](https://github.com/bastibl/gr-ieee802-11). [Source code.](https://github.com/avgsg/gr-macprotocols.git). <br>
+I had developed this project during the course "Intelligent Networks" at the Federal University of Minas Gerais in 2017.1, consisting of two MAC protocols (CSMA/CA and TDMA) for use in software-defined radio platforms. The PHY layer comes from the project [gr-ieee802-11](https://github.com/bastibl/gr-ieee802-11). [Source code.](https://github.com/avgsg/gr-macprotocols.git) <br>
 
 ## 5. Alternative algorithm for ANR in LTE networks (2016)
 
-This project is the outcome of my Bachelor's degree thesis. It proposes an algorithm that efficiently and automatically fulfils ANR (Automatic Neighbour Relation) tables in LTE networks. [Document URL (unpublished).](https://www.researchgate.net/profile/Andre_Gomes19/publication/316066687_Proposta_de_algoritmo_para_preenchimento_automatico_de_tabelas_de_vizinhanca_em_ambientes_LTE/links/58eec352a6fdcc61cc126d3f/Proposta-de-algoritmo-para-preenchimento-automatico-de-tabelas-de-vizinhanca-em-ambientes-LTE.pdf).
+This project is the outcome of my Bachelor's degree thesis. It proposes an algorithm that efficiently and automatically fulfils ANR (Automatic Neighbour Relation) tables in LTE networks. [Document URL (unpublished).](https://www.researchgate.net/profile/Andre_Gomes19/publication/316066687_Proposta_de_algoritmo_para_preenchimento_automatico_de_tabelas_de_vizinhanca_em_ambientes_LTE/links/58eec352a6fdcc61cc126d3f/Proposta-de-algoritmo-para-preenchimento-automatico-de-tabelas-de-vizinhanca-em-ambientes-LTE.pdf)
