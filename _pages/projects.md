@@ -8,7 +8,7 @@ author_profile: true
 
 I am a team member of the SATORI (smart networking in the era of AI) project, a joint research collaboration between Trinity College Dublin (Ireland) and Tsinghua University (China). For more details, visit [here](http://satori-project.net/).
 
-**Publications** <br>
+**Publications:** <br>
 [1] Gomes, A., Kibiłda, J., Farhang, A., Farrell, R., and DaSilva, L. A (2020). _Network Sharing for Reliable Networks: A Data-Driven Study_. In IEEE International Conference on Communication (ICC). \[To be published\]. [PDF](../files/papers/icc-2020-net-sharing.pdf).
 
 ## 2. SOMAC (2017-2018)
