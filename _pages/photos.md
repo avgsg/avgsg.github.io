@@ -3,6 +3,10 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+
+### Pay back propagation
+![ML in a nutshell](/images/photos/payback-propagation.jpg)
+
 ### Bray, Ireland 2020
 ![Bray, Ireland](/images/photos/bray-ireland.jpg)
 
