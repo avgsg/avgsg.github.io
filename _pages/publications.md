@@ -6,7 +6,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZwxeyZMAAAAJ)
 
-1. **Gomes, A.**, Kibiłda, J., Farhang, A., Farrell, R., and DaSilva, L. A (2021). _Multi-Operator Connectivity Sharing for ReliableNetworks: A Data-Driven Risk Analysis_.  IEEE Transactions on Network and Service Management, 2021. [accepted - to appear]
+1. **Gomes, A.**, Kibiłda, J., Farhang, A., Farrell, R., and DaSilva, L. A (2021). _Multi-Operator Connectivity Sharing for ReliableNetworks: A Data-Driven Risk Analysis_.  IEEE Transactions on Network and Service Management, 2021 (_Accepted, to appear_). [PDF](../files/papers/ieee-tnsm-si-2021.pdf)
 
 2. **Gomes, A.**, Kibiłda, J., Farhang, A., Farrell, R., and DaSilva, L. A (2020). _Network Sharing for Reliable Networks: A Data-Driven Study_. In IEEE International Conference on Communication (ICC). [PDF](../files/papers/icc-2020-net-sharing.pdf).
 
